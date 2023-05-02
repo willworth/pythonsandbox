@@ -1,0 +1,18 @@
+# Ignore the virtual environment directory
+env/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the cache directory for the Python interpreter
+__pycache__/
+
+# Ignore the build directory for setuptools
+build/
+
+# Ignore the distribution directory for setuptools
+dist/
+
+# Ignore any local configuration files
+*.ini
+*.cfg
